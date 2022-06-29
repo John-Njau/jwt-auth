@@ -1,0 +1,4 @@
+make: Entering directory '/home/moringa/Documents/Moringa-projects/Prodev/jwt'
+python manage.py runserver
+make: Leaving directory '/home/moringa/Documents/Moringa-projects/Prodev/jwt'
+ 
